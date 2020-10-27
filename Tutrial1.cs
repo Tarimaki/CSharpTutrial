@@ -3,7 +3,7 @@ namespace Tutrial
   public class Tutrial1
   {
     //エントリポイント　Mainからプログラムがスタートする
-    public void Main()
+    public static void Main()
     {
       //これは１行コメント
       /*これは
