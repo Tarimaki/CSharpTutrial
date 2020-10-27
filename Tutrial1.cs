@@ -14,6 +14,14 @@ namespace Tutrial
       int i;
       //i に値を代入
       i = 5;
+      
+      //string型のstrを宣言
+      string str;
+      //strに値を代入
+      str = "Hello World";
+      
+      //標準出力 引数にstrが入っているので　Hello World　が表示される
+      Console.WriteLine(str);
     }
   }
 }
