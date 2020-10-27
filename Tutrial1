@@ -2,6 +2,7 @@ namespace Tutrial
 {
   public class Tutrial1
   {
+    //エントリポイント　Mainからプログラムがスタートする
     public void Main()
     {
       //これは１行コメント
